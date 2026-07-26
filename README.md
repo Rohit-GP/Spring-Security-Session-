@@ -45,6 +45,10 @@ This project was built to understand how Spring Security handles user authentica
 - Password hashing with BCrypt
 - User registration and login flow
 
+## 📸 Demo
+
+![Login API](images/login.png)
+
 ## 📌 Note
 
 This project was created for learning purposes and is not intended for production use.
