@@ -47,7 +47,10 @@ This project was built to understand how Spring Security handles user authentica
 
 ## 📸 Demo
 
-![Login API](images/login.png)
+Login API :
+
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/a4c5310d-24e3-4b5f-ac64-c8601379215f" />
+
 
 ## 📌 Note
 
